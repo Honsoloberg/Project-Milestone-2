@@ -1,4 +1,4 @@
-# Milestone 1: Data Ingestion System (Cloud Pub/Sub)
+# Project Milestone 2: Data Storage and Integration Connectors
 ## SOFE4630U-MS1
 
 ### Objectives
